@@ -165,7 +165,6 @@ function App() {
         <section className="selection-panel">
           <div className="selection-header">
             <div>
-              <p className="eyebrow">Step 2</p>
               <h2>Choose Your Class</h2>
             </div>
             <button
@@ -297,8 +296,7 @@ function App() {
         <section className="battle-panel">
           <div className="selection-header">
             <div>
-              <p className="eyebrow">Step 4</p>
-              <h2>Main Battle</h2>
+              <h2>FIGHT!</h2>
             </div>
             <button
               className="ghost-button"
