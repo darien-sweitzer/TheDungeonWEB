@@ -1,0 +1,20 @@
+Warrior Giant | Armored | Dual-Wielded Longswords | Trained
+Warrior Inspirational | Extremely Strong | Righteous
+Wizard Elf | Long Staff | Fiery Eyes | Disciplined
+Wizard Telekenetic | Controls Elements | Can Fly
+Assassin Unknown ( Species ) | Dual Daggers | Hood | Cant See Face
+Assassin Teleportation | Disguises | Loki Level Cunningness
+Alchemist Goblin | Hysterical | Glass Eye | Always Joking Around
+Alchemist Scientist | Potions | Doesnt Care
+Necromancer Undead | Corrupted Staff | Withered | Dark
+Necromancer Controls Dead | Dark Magic | Immortal
+boss1 Green | 12' Tall | 550 Pounds | Sharp Tusks
+boss1 Dim-Witted | Savage | Fierce | Angry
+boss2 Elf | Blonde Hair | Blue Eyes | Pointy Ears
+boss2 Extremely Intelligent | Egotistical | Insane
+boss3 Lizard | Green | Slimey | Scaled
+boss3 Incredibly Fast | Deranged | Frenzied
+boss4 Mech | Steel | Robot | Weaponized
+boss4 Emotionless | Aggressive | Designed to Kill
+boss5 Spirit | Dark | Shadow | Reaper
+boss5 Feels Nothing | Drags People to Underworld | Unstoppable

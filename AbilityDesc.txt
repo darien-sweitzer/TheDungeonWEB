@@ -1,0 +1,30 @@
+Warrior Spin Your Axe Around Dealing (75 - 125) Damage 3 Times
+Warrior Swing Your Axe with All Your Force Dealing (450 - 600) Damage with a 50% Chance to Miss
+Warrior Grab an Object Near You & Hurl it Towards Your Opponenent Dealing (175 - 225) Damage with a 50% Chance to Grab a Heavy Object & Deal Critical Damage
+Wizard Direct a Blast of Energy Dealing (250 - 350) Damage
+Wizard Rain Fire Down on Your Opponent Dealing (75 - 125) Damage 5 Times with a 33% Chance to Miss Each Shot
+Wizard Summons a Wolf to Attack for you Dealing (175 - 225) Damage with a 50% Chance to Summon a Lion to Deal Critical Damage
+Assassin Perform 1 of 3 Mind Games To Play with & Terrorize Your Opponent Dealing (250 - 350) Damage
+Assassin Teleport Behind Your Opponent & Stab Them Attempting to Hit a Weak-Spot Dealing (175 - 225) Damage, if Weak-Spot is Exposed Deal Double Damage
+Assassin Rapid Fire Ninja Stars Towards Your Opponent Dealing (50 - 100) Damage Twice, Three Times in a Row with a 33% Chance to Miss Each Shot
+Alchemist Brew a Potion Infused with Fire & Glass Then Launch it at Your Opponent Dealing (250 - 350) Damage
+Alchemist Brew a Potion Infused with Ice & Wind Then Hurl it at the Ground Dealing (450 - 600) Damage with a 50% Chance to Freeze Yourself & Miss
+Alchemist Brew a Potion Infused with the Sun & the Moon to Slow Time Down Dealing (175 - 225) Damage with a 50% Chance to Reverse Time & Deal Critical Damage
+Necromancer Curse Your Opponent with a Degeneration Spell Causing There Body to Fall Apart Dealing (75 - 125) Damage 5 Times with a 33% Chance to Miss Each Shot
+Necromancer Take Control of Your Opponents Mind & Make Them Snap Their Own Arm Dealing (175 - 225) Damage with a 50% Chance to Make Them Stab Themselves & Deal Critical Damage
+Necromancer Resurrect Over a Thousand Corpses From Their Graves to Swarm Your Opponent Dealing (50 - 100) Damage 7 Times with a 33% Chance to Miss Each Shot
+boss1 Jump High Into The Air & Land on Your Opponent, Crushing Them & Dealing (250 - 350) Damage
+boss1 Swing Your Axe With All Your Body Weight for an Overpowered Attack Dealing (450 - 600) Damage with a 50% Chance to Miss
+boss1 Sprint Directly at Your Opponent & Trample Over Them Dealing (175 - 225) Damage with a 50% Chance to Deal Critical Damage
+boss2 Strike Down Your Opponent With Holy Light Dealing (250 - 350) Damage
+boss2 Call Upon the Word of God Himself reading a Scripture Dealing (450 - 600) Damage with a 50% Chance to Miss
+boss2 Call Upon Evil to Harness Dark Magic & Then Project the Energy Forward Dealing (175 - 225) Damage with a 50% Chance to Deal Critical Damage
+boss3 Shoot a Ball of Acid From Your Stomach at Your Opponent Dealing (250 - 350) Damage
+boss3 Take a Bite Out of Your Opponents Neck Causing Them to Bleed Out Dealing (75 - 125) Damage 4 Times with a 33% Chance to Miss Each
+boss3 Dart to Your Opponent & Slash Their Chest With Your Claws Dealing (175 - 225) Damage with a 50% Chance to Deal Critical Damage
+boss4 Convert Your Arms Into Gatlin Guns and Unload Dealing (75 - 125) Damage 4 Times
+boss4 Convert Your Arms Into a Rocket Launcher and Fire Missles Dealing (75 - 125) Damage 6 Times with a 33% Chance to Miss Each
+boss4 Convert Your Arms Into 2 Samurai Swords and Slash Your Opponent Dealing (275 - 325) Damage with a 75% Chance to Hit, if Successful Perform again with a 50% Chance
+boss5 Terrify Your Opponent by Following Them But Never Confronting Them Dealing (375 - 425) Damage
+boss5 Drain the Life Force Out of Your Opponent Dealing (50 - 100) Damage 8 Times with a 33% Chance to Miss Each
+boss5 Rot Your Opponents Body Dealing (225 - 275) Damage with a 50% Chance to Corrupt Internal Organs & Deal Critical Damage
