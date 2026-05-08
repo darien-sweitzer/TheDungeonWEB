@@ -1,6 +1,6 @@
 # The Dungeon
 
-Boss battle dungeon game.
+A turn-based dungeon boss battle game built with React and Java.
 
 React/Vite turn-based dungeon game with JavaScript combat logic, class-based hero selection, randomized damage,
 critical-hit mechanics, and escalating boss encounters. Migrated from an original Java console game into a responsive
